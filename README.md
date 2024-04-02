@@ -1,2 +1,2 @@
 # CaliberRacingIndia
-This is a professional E Commerce platform for proving skates. 
+This is a professional E Commerce platform for providing skates. 
